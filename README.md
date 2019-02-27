@@ -10,6 +10,11 @@ In the simulation;
  
  
 <h3> I was took it as homework in the first lecture of artificial intelligence . </h3>
+I made two different versions ..!
+
+- Bouncing balls
+- Bad ball
+
  
  **- It's me Hasan Naser senior Computer Engineering at Siirt University 
  ,About me : https://www.linkedin.com/in/25hasanaser/  -**
