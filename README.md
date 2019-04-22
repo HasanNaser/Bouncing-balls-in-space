@@ -16,5 +16,5 @@ I made two different versions ..!
 - Bad ball
 
  
- **- It's me Hasan Naser senior Computer Engineering at Siirt University 
+ **-  Hasan Naser senior Computer Engineering at Siirt University 
  ,About me : https://www.linkedin.com/in/25hasanaser/  -**
